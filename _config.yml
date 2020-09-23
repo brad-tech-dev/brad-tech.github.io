@@ -21,7 +21,7 @@
 title: BRAD Technologies
 email: bradtech.ke@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  We are an end to end IT solutions provider based in Nairobi and Eldoret Kenya.
+  We are an end-to-end IT solutions provider based in Nairobi and Eldoret Kenya.
   We provide IT related products and services for the local market.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
